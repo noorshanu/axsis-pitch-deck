@@ -3,7 +3,7 @@ import Layout from '../Layout'
 
 const Intro = () => {
   return (
-    <Layout>
+    <Layout title={"INTRODUCTION"}>
         <div className=''>
 
       <p className='font-red-hat text-white text-center my-10 max-w-3xl mx-auto'>

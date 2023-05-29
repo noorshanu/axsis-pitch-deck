@@ -1,5 +1,5 @@
 import Layout from './Layout'
-import Intro from './pages/Intro'
+import Proposition from './pages/Proposition'
 import Home from './sections/Home'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Intro/>
+    <Proposition/>
     
        
     </>
