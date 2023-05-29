@@ -1,5 +1,6 @@
 import Layout from './Layout'
 import Proposition from './pages/Proposition'
+import Team from './pages/Team'
 import Home from './sections/Home'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-    <Proposition/>
+    <Team/>
     
        
     </>
