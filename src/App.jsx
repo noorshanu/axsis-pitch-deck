@@ -1,5 +1,4 @@
-
-import './App.css'
+import Layout from './Layout'
 import Home from './sections/Home'
 
 function App() {
@@ -7,7 +6,8 @@ function App() {
 
   return (
     <>
-      <Home/>
+    
+      <Layout></Layout>
        
     </>
   )
